@@ -8,13 +8,25 @@ Nayaprotect est un système de protection avancé pour les serveurs Discord. Il 
 
 - **Protection contre les comportements malveillants (Antiraid)** : Il peut détecter et bloquer les activités de type raid ou spam, assurant ainsi une expérience utilisateur positive.
 
-- **Protection contre les liens indésirables (Antilink)** : Nayaprotect peut filtrer les liens indésirables ou dangereux, maintenant un environnement sûr pour les utilisateurs.
-
 - **Personnalisation des permissions (Permission Control)** : Il permet aux administrateurs de gérer les autorisations de différentes commandes et fonctionnalités pour les utilisateurs et les rôles spécifiques.
 
 - **Gestion de la liste noire (Blacklist)** : Les utilisateurs ou les éléments spécifiques peuvent être placés sur la liste noire, limitant ainsi leur accès au serveur.
 
 - **Enregistrement des activités (Logs)** : Nayaprotect enregistre les activités importantes sur le serveur, ce qui peut être utile pour la modération et la gestion.
+
+## Catégories de Commandes
+
+Nayaprotect organise ses fonctionnalités en différentes catégories pour une gestion facile. Voici les catégories disponibles :
+
+- **Catégorie Antiraid** : Cette catégorie regroupe des commandes et des fonctionnalités liées à la protection contre les raids, les spams et les comportements malveillants.
+
+- **Catégorie Modération** : Vous trouverez ici des commandes pour gérer et modérer votre serveur Discord, telles que la gestion des sanctions et des autorisations.
+
+- **Catégorie Gestion du Serveur** : Cette catégorie comprend des commandes pour gérer et configurer divers aspects de votre serveur, tels que les paramètres du serveur et les invitations.
+
+- **Catégorie Bot Control** : Les commandes dans cette catégorie vous permettent de contrôler le comportement et les paramètres de Nayaprotect lui-même.
+
+- **Catégorie Utilitaire** : Vous y trouverez des commandes utilitaires pour effectuer diverses actions pratiques sur votre serveur.
 
 ## Équipes de support
 
