@@ -38,13 +38,13 @@ Pour fournir une assistance et des réponses à toutes vos questions concernant 
 
 - **Forum communautaire** : Notre forum communautaire est un excellent endroit pour discuter de Nayaprotect avec d'autres utilisateurs, partager des astuces et poser des questions.
 
-- **Assistance par e-mail** : Si vous préférez, vous pouvez également contacter notre équipe d'assistance par e-mail à support@nayaprotect.com.
+- **Assistance par e-mail** : Si vous préférez, vous pouvez également contacter notre équipe d'assistance par e-mail à nayaprotect@ryleaheberg.fr.
 
 Nayaprotect est dédié à rendre votre expérience de serveur Discord aussi sécurisée et agréable que possible. N'hésitez pas à contacter notre équipe de support si vous avez besoin d'aide ou d'informations supplémentaires.
 
 ## Prix et Plans
 
-Nayaprotect offre plusieurs plans, y compris une option gratuite avec des fonctionnalités de base et des plans premium avec des fonctionnalités avancées. Pour en savoir plus sur nos prix et nos plans, visitez notre [page de tarification](https://nayaprotect.com/pricing).
+Nayaprotect offre plusieurs plans, y compris une option gratuite avec des fonctionnalités de base et des plans premium avec des fonctionnalités avancées. Pour en savoir plus sur nos prix et nos plans, visitez notre [page de tarification](https://nayaprotect.ryleaheberg.fr/pages/license.html).
 
 ## L'équipe Nayaprotect
 
