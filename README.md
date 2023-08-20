@@ -52,7 +52,9 @@ Nayaprotect est développé et géré par une équipe talentueuse dédiée à la
 
 - **Naya - Développeuse principale d'Elektra** : Naya est la développeuse principale et la propriétaire principale du projet Elektra. Elle est passionnée par la sécurité en ligne et travaille sans relâche pour améliorer la protection de votre serveur Discord.
   
-![Naya - Développeuse principale d'Elektra](https://discord.c99.nl/widget/theme-1/1142148870177038487.png)
+<a href="https://discord.c99.nl/widget/theme-1/1142148870177038487.png">
+   <img src="https://discord.c99.nl/widget/theme-1/1142148870177038487.png" alt="Naya - Développeuse principale d'Elektra">
+</a>
 
 - **h_00h01** : H_00h1 est le support du service client de ElektraBots, il s'assure que les utilisateurs reçoivent une assistance de qualité.
 
