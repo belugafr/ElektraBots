@@ -44,7 +44,7 @@ Nayaprotect est dédié à rendre votre expérience de serveur Discord aussi sé
 
 ## Prix et Plans
 
-Nayaprotect offre plusieurs plans, y compris une option gratuite avec des fonctionnalités de base et des plans premium avec des fonctionnalités avancées. Pour en savoir plus sur nos prix et nos plans, visitez notre [page de tarification](https://elektrabots.ryleaheberg.fr/pages/license.html).
+Nayaprotect offre plusieurs plans, y compris une option gratuite avec des fonctionnalités de base et des plans premium ![Naya - Développeuse principale d'Elektra](https://discord.c99.nl/widget/theme-1/1142148870177038487.png)
 
 ## L'équipe Nayaprotect
 
