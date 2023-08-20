@@ -44,16 +44,14 @@ Nayaprotect est dédié à rendre votre expérience de serveur Discord aussi sé
 
 ## Prix et Plans
 
-Nayaprotect offre plusieurs plans, y compris une option gratuite avec des fonctionnalités de base et des plans premium ![Naya - Développeuse principale d'Elektra](https://discord.c99.nl/widget/theme-1/1142148870177038487.png)
+Nayaprotect offre plusieurs plans, y compris une option gratuite avec des fonctionnalités de base et des plans premium !
 
 ## L'équipe Nayaprotect
 
 Nayaprotect est développé et géré par une équipe talentueuse dédiée à la sécurité et à la qualité des serveurs Discord. Voici quelques-uns des membres clés de l'équipe :
 
 - **Naya - Développeuse principale d'Elektra** : Naya est la développeuse principale et la propriétaire principale du projet Elektra. Elle est passionnée par la sécurité en ligne et travaille sans relâche pour améliorer la protection de votre serveur Discord.
-(https://discord.c99.nl/widget/theme-1/1142148870177038487.png)
-
-
+![Naya - Développeuse principale d'Elektra](https://discord.c99.nl/widget/theme-1/1142148870177038487.png)
 
 - **h_00h01** : H_00h1 est le support du service client de ElektraBots, il s'assure que les utilisateurs reçoivent une assistance de qualité.
 
